@@ -4,5 +4,8 @@
   "description": "Check if a path is inside node_modules",
   "main": "index.js",
   "author": "James Kyle <me@thejameskyle.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.46.0"
+  }
 }
