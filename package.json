@@ -1,6 +1,6 @@
 {
   "name": "is-node-modules",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if a path is inside node_modules",
   "main": "index.js",
   "author": "James Kyle <me@thejameskyle.com>",
